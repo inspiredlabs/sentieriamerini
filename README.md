@@ -2,9 +2,17 @@
 
 Pre-configured SvelteKit project for [Netlify](https://netlify.com).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a84420d-1543-48fe-ba34-fcb84912acd2/deploy-status)](https://app.netlify.com/sites/sveltekit-netlify-starter/deploys)
+
 ## Getting Started
 
-Go on GitHub and click the "Use this Template" to add a copy of the repository to your profile.
+You can start with ease by using our one-click deploy solution
+
+[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/sveltekit-netlify-starter)
+
+Or 
+
+On GitHub, click the "Use this Template" to add a copy of the repository to your profile.
 
 After cloning down your project:
 
