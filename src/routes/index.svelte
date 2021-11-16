@@ -1,5 +1,5 @@
 
-<main>
+<main class="centered">
     <h1>SvelteKit Starter with Netlify</h1>
     <p>
         If you haven't already, install the <a href="https://github.com/netlify/cli#installation">Netlify CLI</a>.
