@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="http://www.gpsies.com/GPX/1/0" creator="GPSies http://www.gpsies.com - Anello Alviano Guardea" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.gpsies.com/GPX/1/0 http://www.gpsies.com/gpsies.xsd">
+  <metadata>
+    <name>Anello Alviano Guardea</name>
+    <author>
+      <name>RestartAmelia</name>
+      <link href="http://www.gpsies.com/mapUser.do?username=RestartAmelia">
+        <text>RestartAmelia on GPSies.com</text>
+        <type>GPSiesUserOnWeb</type>
+      </link>
+    </author>
+    <link href="http://www.gpsies.com/map.do?fileId=xobgcyhnualpmwxd">
+      <text>Anello Alviano Guardea on GPSies.com</text>
+      <type>trackOnWeb</type>
+    </link>
+    <time>2017-10-27T09:53:21Z</time>
+    <extensions>
+      <gpsies:property>round trip</gpsies:property>
+      <gpsies:trackLengthMeter>15890.459135392255</gpsies:trackLengthMeter>
+      <gpsies:totalAscentMeter>552.0</gpsies:totalAscentMeter>
+      <gpsies:totalDescentMeter>552.0</gpsies:totalDescentMeter>
+      <gpsies:minHeightMeter>261.0</gpsies:minHeightMeter>
+      <gpsies:maxHeightMeter>633.0</gpsies:maxHeightMeter>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Anello Alviano Guardea on GPSies.com</name>
+    <link href="http://www.gpsies.com/map.do?fileId=xobgcyhnualpmwxd">
+      <type>trackOnWeb</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/xo/map/xobgcyhnualpmwxd_map.png">
+      <type>elevationChartUrlMap</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/xo/mapThumb/xobgcyhnualpmwxd_mapThumb.png">
+      <type>elevationChartUrlMapThumb</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/xo/tab/xobgcyhnualpmwxd_tab.png">
+      <type>elevationChartUrlTab</type>
+    </link>
+    <trkseg>
+      <trkpt lat="42.58879640" lon="12.29691530">
+        <ele>261.00000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="42.59063000" lon="12.29709750">
+        <ele>267.00000</ele>
+        <time>2010-01-01T00:01:13Z</time>
+        <extensions>
+          <gpsies:course>4.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59285340" lon="12.29758950">
+        <ele>284.00000</ele>
+        <time>2010-01-01T00:02:43Z</time>
+        <extensions>
+          <gpsies:course>9.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59396200" lon="12.29775460">
+        <ele>291.00000</ele>
+        <time>2010-01-01T00:03:28Z</time>
+        <extensions>
+          <gpsies:course>6.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59549510" lon="12.29806830">
+        <ele>295.00000</ele>
+        <time>2010-01-01T00:04:30Z</time>
+        <extensions>
+          <gpsies:course>8.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59620090" lon="12.29805170">
+        <ele>294.00000</ele>
+        <time>2010-01-01T00:04:58Z</time>
+        <extensions>
+          <gpsies:course>359.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59659020" lon="12.29818380">
+        <ele>298.00000</ele>
+        <time>2010-01-01T00:05:14Z</time>
+        <extensions>
+          <gpsies:course>14.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59741760" lon="12.29757210">
+        <ele>303.00000</ele>
+        <time>2010-01-01T00:05:52Z</time>
+        <extensions>
+          <gpsies:course>331.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59751490" lon="12.29732410">
+        <ele>301.00000</ele>
+        <time>2010-01-01T00:06:00Z</time>
+        <extensions>
+          <gpsies:course>298.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59791630" lon="12.29682810">
+        <ele>300.00000</ele>
+        <time>2010-01-01T00:06:22Z</time>
+        <extensions>
+          <gpsies:course>317.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59843950" lon="12.29624950">
+        <ele>300.00000</ele>
+        <time>2010-01-01T00:06:49Z</time>
+        <extensions>
+          <gpsies:course>320.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59923030" lon="12.29580300">
+        <ele>307.00000</ele>
+        <time>2010-01-01T00:07:23Z</time>
+        <extensions>
+          <gpsies:course>337.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59947080" lon="12.29575330">
+        <ele>311.00000</ele>
+        <time>2010-01-01T00:07:33Z</time>
+        <extensions>
+          <gpsies:course>351.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59970200" lon="12.29567060">
+        <ele>314.00000</ele>
+        <time>2010-01-01T00:07:43Z</time>
+        <extensions>
+          <gpsies:course>345.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60046860" lon="12.29581920">
+        <ele>318.00000</ele>
+        <time>2010-01-01T00:08:14Z</time>
+        <extensions>
+          <gpsies:course>8.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60091880" lon="12.29605050">
+        <ele>323.00000</ele>
+        <time>2010-01-01T00:08:33Z</time>
+        <extensions>
+          <gpsies:course>20.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60116220" lon="12.29598440">
+        <ele>323.00000</ele>
+        <time>2010-01-01T00:08:43Z</time>
+        <extensions>
+          <gpsies:course>348.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60150280" lon="12.29583550">
+        <ele>320.00000</ele>
+        <time>2010-01-01T00:08:57Z</time>
+        <extensions>
+          <gpsies:course>342.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60178270" lon="12.29586850">
+        <ele>323.00000</ele>
+        <time>2010-01-01T00:09:08Z</time>
+        <extensions>
+          <gpsies:course>5.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60200170" lon="12.29590150">
+        <ele>325.00000</ele>
+        <time>2010-01-01T00:09:17Z</time>
+        <extensions>
+          <gpsies:course>6.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60241540" lon="12.29578570">
+        <ele>322.00000</ele>
+        <time>2010-01-01T00:09:34Z</time>
+        <extensions>
+          <gpsies:course>348.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60297510" lon="12.29606660">
+        <ele>327.00000</ele>
+        <time>2010-01-01T00:09:58Z</time>
+        <extensions>
+          <gpsies:course>20.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60329160" lon="12.29647980">
+        <ele>337.00000</ele>
+        <time>2010-01-01T00:10:16Z</time>
+        <extensions>
+          <gpsies:course>43.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60347880" lon="12.29652600">
+        <ele>336.00000</ele>
+        <time>2010-01-01T00:10:23Z</time>
+        <extensions>
+          <gpsies:course>10.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60376750" lon="12.29654470">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:10:35Z</time>
+        <extensions>
+          <gpsies:course>2.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60390860" lon="12.29648360">
+        <ele>334.00000</ele>
+        <time>2010-01-01T00:10:41Z</time>
+        <extensions>
+          <gpsies:course>342.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60404240" lon="12.29651440">
+        <ele>334.00000</ele>
+        <time>2010-01-01T00:10:46Z</time>
+        <extensions>
+          <gpsies:course>9.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60417590" lon="12.29656560">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:10:52Z</time>
+        <extensions>
+          <gpsies:course>15.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60460870" lon="12.29675000">
+        <ele>342.00000</ele>
+        <time>2010-01-01T00:11:10Z</time>
+        <extensions>
+          <gpsies:course>17.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60501790" lon="12.29665110">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:11:26Z</time>
+        <extensions>
+          <gpsies:course>349.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60526710" lon="12.29656350">
+        <ele>347.00000</ele>
+        <time>2010-01-01T00:11:37Z</time>
+        <extensions>
+          <gpsies:course>345.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60534090" lon="12.29651240">
+        <ele>348.00000</ele>
+        <time>2010-01-01T00:11:40Z</time>
+        <extensions>
+          <gpsies:course>333.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60555020" lon="12.29652700">
+        <ele>351.00000</ele>
+        <time>2010-01-01T00:11:48Z</time>
+        <extensions>
+          <gpsies:course>2.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60568160" lon="12.29664460">
+        <ele>355.00000</ele>
+        <time>2010-01-01T00:11:55Z</time>
+        <extensions>
+          <gpsies:course>33.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60590630" lon="12.29666350">
+        <ele>359.00000</ele>
+        <time>2010-01-01T00:12:04Z</time>
+        <extensions>
+          <gpsies:course>3.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60641200" lon="12.29632300">
+        <ele>365.00000</ele>
+        <time>2010-01-01T00:12:26Z</time>
+        <extensions>
+          <gpsies:course>333.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60654110" lon="12.29636350">
+        <ele>366.00000</ele>
+        <time>2010-01-01T00:12:32Z</time>
+        <extensions>
+          <gpsies:course>13.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60664810" lon="12.29645280">
+        <ele>367.00000</ele>
+        <time>2010-01-01T00:12:37Z</time>
+        <extensions>
+          <gpsies:course>31.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60670410" lon="12.29656170">
+        <ele>367.00000</ele>
+        <time>2010-01-01T00:12:41Z</time>
+        <extensions>
+          <gpsies:course>55.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60766950" lon="12.29618850">
+        <ele>364.00000</ele>
+        <time>2010-01-01T00:13:21Z</time>
+        <extensions>
+          <gpsies:course>344.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60778700" lon="12.29618120">
+        <ele>364.00000</ele>
+        <time>2010-01-01T00:13:25Z</time>
+        <extensions>
+          <gpsies:course>357.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60966090" lon="12.29713970">
+        <ele>362.00000</ele>
+        <time>2010-01-01T00:14:46Z</time>
+        <extensions>
+          <gpsies:course>20.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61081680" lon="12.29730480">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:15:32Z</time>
+        <extensions>
+          <gpsies:course>6.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61114540" lon="12.29801560">
+        <ele>350.00000</ele>
+        <time>2010-01-01T00:15:57Z</time>
+        <extensions>
+          <gpsies:course>57.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61151050" lon="12.29839580">
+        <ele>351.00000</ele>
+        <time>2010-01-01T00:16:15Z</time>
+        <extensions>
+          <gpsies:course>37.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61185120" lon="12.29856100">
+        <ele>351.00000</ele>
+        <time>2010-01-01T00:16:30Z</time>
+        <extensions>
+          <gpsies:course>19.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61200940" lon="12.29854450">
+        <ele>352.00000</ele>
+        <time>2010-01-01T00:16:36Z</time>
+        <extensions>
+          <gpsies:course>355.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61252670" lon="12.29912300">
+        <ele>356.00000</ele>
+        <time>2010-01-01T00:17:03Z</time>
+        <extensions>
+          <gpsies:course>39.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61370700" lon="12.29988340">
+        <ele>367.00000</ele>
+        <time>2010-01-01T00:17:55Z</time>
+        <extensions>
+          <gpsies:course>25.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61409640" lon="12.30001560">
+        <ele>368.00000</ele>
+        <time>2010-01-01T00:18:11Z</time>
+        <extensions>
+          <gpsies:course>14.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61432760" lon="12.30021390">
+        <ele>370.00000</ele>
+        <time>2010-01-01T00:18:22Z</time>
+        <extensions>
+          <gpsies:course>32.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61451010" lon="12.30036270">
+        <ele>372.00000</ele>
+        <time>2010-01-01T00:18:31Z</time>
+        <extensions>
+          <gpsies:course>31.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61475340" lon="12.30008160">
+        <ele>369.00000</ele>
+        <time>2010-01-01T00:18:44Z</time>
+        <extensions>
+          <gpsies:course>319.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61478990" lon="12.29991630">
+        <ele>366.00000</ele>
+        <time>2010-01-01T00:18:49Z</time>
+        <extensions>
+          <gpsies:course>286.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61469150" lon="12.29978920">
+        <ele>366.00000</ele>
+        <time>2010-01-01T00:18:54Z</time>
+        <extensions>
+          <gpsies:course>223.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61452220" lon="12.29968480">
+        <ele>367.00000</ele>
+        <time>2010-01-01T00:19:02Z</time>
+        <extensions>
+          <gpsies:course>204.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61442480" lon="12.29961870">
+        <ele>369.00000</ele>
+        <time>2010-01-01T00:19:06Z</time>
+        <extensions>
+          <gpsies:course>206.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61437620" lon="12.29945340">
+        <ele>369.00000</ele>
+        <time>2010-01-01T00:19:11Z</time>
+        <extensions>
+          <gpsies:course>248.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61443690" lon="12.29884160">
+        <ele>368.00000</ele>
+        <time>2010-01-01T00:19:29Z</time>
+        <extensions>
+          <gpsies:course>277.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61440040" lon="12.29851100">
+        <ele>365.00000</ele>
+        <time>2010-01-01T00:19:39Z</time>
+        <extensions>
+          <gpsies:course>261.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61430300" lon="12.29831260">
+        <ele>364.00000</ele>
+        <time>2010-01-01T00:19:46Z</time>
+        <extensions>
+          <gpsies:course>236.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61414480" lon="12.29801500">
+        <ele>365.00000</ele>
+        <time>2010-01-01T00:19:57Z</time>
+        <extensions>
+          <gpsies:course>234.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61407180" lon="12.29776700">
+        <ele>364.00000</ele>
+        <time>2010-01-01T00:20:05Z</time>
+        <extensions>
+          <gpsies:course>248.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61408390" lon="12.29751900">
+        <ele>361.00000</ele>
+        <time>2010-01-01T00:20:12Z</time>
+        <extensions>
+          <gpsies:course>273.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61425430" lon="12.29727100">
+        <ele>353.00000</ele>
+        <time>2010-01-01T00:20:22Z</time>
+        <extensions>
+          <gpsies:course>313.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61438810" lon="12.29712210">
+        <ele>348.00000</ele>
+        <time>2010-01-01T00:20:29Z</time>
+        <extensions>
+          <gpsies:course>320.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61438810" lon="12.29697330">
+        <ele>346.00000</ele>
+        <time>2010-01-01T00:20:34Z</time>
+        <extensions>
+          <gpsies:course>270.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61418120" lon="12.29670880">
+        <ele>344.00000</ele>
+        <time>2010-01-01T00:20:45Z</time>
+        <extensions>
+          <gpsies:course>223.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61414460" lon="12.29589870">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:21:09Z</time>
+        <extensions>
+          <gpsies:course>266.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61425410" lon="12.29599780">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:21:14Z</time>
+        <extensions>
+          <gpsies:course>33.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61463130" lon="12.29601430">
+        <ele>333.00000</ele>
+        <time>2010-01-01T00:21:29Z</time>
+        <extensions>
+          <gpsies:course>1.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61489900" lon="12.29619610">
+        <ele>331.00000</ele>
+        <time>2010-01-01T00:21:41Z</time>
+        <extensions>
+          <gpsies:course>26.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61506940" lon="12.29655980">
+        <ele>330.00000</ele>
+        <time>2010-01-01T00:21:54Z</time>
+        <extensions>
+          <gpsies:course>57.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61525190" lon="12.29677470">
+        <ele>328.00000</ele>
+        <time>2010-01-01T00:22:04Z</time>
+        <extensions>
+          <gpsies:course>40.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61543450" lon="12.29695660">
+        <ele>326.00000</ele>
+        <time>2010-01-01T00:22:13Z</time>
+        <extensions>
+          <gpsies:course>36.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61549530" lon="12.29723760">
+        <ele>327.00000</ele>
+        <time>2010-01-01T00:22:21Z</time>
+        <extensions>
+          <gpsies:course>73.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61599420" lon="12.29732020">
+        <ele>317.00000</ele>
+        <time>2010-01-01T00:22:41Z</time>
+        <extensions>
+          <gpsies:course>6.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61629840" lon="12.29745240">
+        <ele>312.00000</ele>
+        <time>2010-01-01T00:22:54Z</time>
+        <extensions>
+          <gpsies:course>17.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61651750" lon="12.29773340">
+        <ele>311.00000</ele>
+        <time>2010-01-01T00:23:06Z</time>
+        <extensions>
+          <gpsies:course>43.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61674870" lon="12.29768380">
+        <ele>310.00000</ele>
+        <time>2010-01-01T00:23:16Z</time>
+        <extensions>
+          <gpsies:course>351.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61709850" lon="12.29808050">
+        <ele>316.00000</ele>
+        <time>2010-01-01T00:23:34Z</time>
+        <extensions>
+          <gpsies:course>39.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61762180" lon="12.29915520">
+        <ele>328.00000</ele>
+        <time>2010-01-01T00:24:12Z</time>
+        <extensions>
+          <gpsies:course>56.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61775570" lon="12.29941970">
+        <ele>332.00000</ele>
+        <time>2010-01-01T00:24:21Z</time>
+        <extensions>
+          <gpsies:course>55.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61804770" lon="12.29961810">
+        <ele>341.00000</ele>
+        <time>2010-01-01T00:24:34Z</time>
+        <extensions>
+          <gpsies:course>26.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61835190" lon="12.30003140">
+        <ele>350.00000</ele>
+        <time>2010-01-01T00:24:51Z</time>
+        <extensions>
+          <gpsies:course>45.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61852230" lon="12.30021320">
+        <ele>355.00000</ele>
+        <time>2010-01-01T00:25:00Z</time>
+        <extensions>
+          <gpsies:course>38.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61891170" lon="12.30036200">
+        <ele>364.00000</ele>
+        <time>2010-01-01T00:25:16Z</time>
+        <extensions>
+          <gpsies:course>15.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61914290" lon="12.30057690">
+        <ele>369.00000</ele>
+        <time>2010-01-01T00:25:28Z</time>
+        <extensions>
+          <gpsies:course>34.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61934970" lon="12.30062650">
+        <ele>373.00000</ele>
+        <time>2010-01-01T00:25:36Z</time>
+        <extensions>
+          <gpsies:course>10.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61948350" lon="12.29998160">
+        <ele>376.00000</ele>
+        <time>2010-01-01T00:25:56Z</time>
+        <extensions>
+          <gpsies:course>285.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61956870" lon="12.29986580">
+        <ele>377.00000</ele>
+        <time>2010-01-01T00:26:01Z</time>
+        <extensions>
+          <gpsies:course>315.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61981200" lon="12.29994850">
+        <ele>380.00000</ele>
+        <time>2010-01-01T00:26:11Z</time>
+        <extensions>
+          <gpsies:course>14.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61997020" lon="12.29988230">
+        <ele>381.00000</ele>
+        <time>2010-01-01T00:26:17Z</time>
+        <extensions>
+          <gpsies:course>342.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62158860" lon="12.30108910">
+        <ele>390.00000</ele>
+        <time>2010-01-01T00:27:31Z</time>
+        <extensions>
+          <gpsies:course>28.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62172230" lon="12.29930320">
+        <ele>389.00000</ele>
+        <time>2010-01-01T00:28:24Z</time>
+        <extensions>
+          <gpsies:course>275.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62184390" lon="12.29898900">
+        <ele>388.00000</ele>
+        <time>2010-01-01T00:28:34Z</time>
+        <extensions>
+          <gpsies:course>297.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62196560" lon="12.29877410">
+        <ele>388.00000</ele>
+        <time>2010-01-01T00:28:42Z</time>
+        <extensions>
+          <gpsies:course>307.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62250090" lon="12.29822830">
+        <ele>386.00000</ele>
+        <time>2010-01-01T00:29:09Z</time>
+        <extensions>
+          <gpsies:course>323.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62322940" lon="12.29799660">
+        <ele>387.00000</ele>
+        <time>2010-01-01T00:29:39Z</time>
+        <extensions>
+          <gpsies:course>346.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62337540" lon="12.29783130">
+        <ele>387.00000</ele>
+        <time>2010-01-01T00:29:47Z</time>
+        <extensions>
+          <gpsies:course>320.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62372820" lon="12.29798000">
+        <ele>387.00000</ele>
+        <time>2010-01-01T00:30:02Z</time>
+        <extensions>
+          <gpsies:course>17.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62406890" lon="12.29824450">
+        <ele>389.00000</ele>
+        <time>2010-01-01T00:30:17Z</time>
+        <extensions>
+          <gpsies:course>29.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62428800" lon="12.29842640">
+        <ele>390.00000</ele>
+        <time>2010-01-01T00:30:28Z</time>
+        <extensions>
+          <gpsies:course>31.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62554130" lon="12.29905450">
+        <ele>395.00000</ele>
+        <time>2010-01-01T00:31:21Z</time>
+        <extensions>
+          <gpsies:course>20.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62569950" lon="12.29913720">
+        <ele>395.00000</ele>
+        <time>2010-01-01T00:31:28Z</time>
+        <extensions>
+          <gpsies:course>21.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62650260" lon="12.29999690">
+        <ele>402.00000</ele>
+        <time>2010-01-01T00:32:09Z</time>
+        <extensions>
+          <gpsies:course>38.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62657560" lon="12.30014580">
+        <ele>404.00000</ele>
+        <time>2010-01-01T00:32:14Z</time>
+        <extensions>
+          <gpsies:course>56.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62677850" lon="12.30044340">
+        <ele>408.00000</ele>
+        <time>2010-01-01T00:32:26Z</time>
+        <extensions>
+          <gpsies:course>47.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62698540" lon="12.30024490">
+        <ele>407.00000</ele>
+        <time>2010-01-01T00:32:36Z</time>
+        <extensions>
+          <gpsies:course>324.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62760590" lon="12.30077400">
+        <ele>416.00000</ele>
+        <time>2010-01-01T00:33:05Z</time>
+        <extensions>
+          <gpsies:course>32.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62784930" lon="12.30110470">
+        <ele>420.00000</ele>
+        <time>2010-01-01T00:33:19Z</time>
+        <extensions>
+          <gpsies:course>45.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62825090" lon="12.30115430">
+        <ele>423.00000</ele>
+        <time>2010-01-01T00:33:35Z</time>
+        <extensions>
+          <gpsies:course>5.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62873760" lon="12.30151800">
+        <ele>429.00000</ele>
+        <time>2010-01-01T00:33:58Z</time>
+        <extensions>
+          <gpsies:course>28.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62899310" lon="12.30183220">
+        <ele>433.00000</ele>
+        <time>2010-01-01T00:34:11Z</time>
+        <extensions>
+          <gpsies:course>42.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62915130" lon="12.30222910">
+        <ele>434.00000</ele>
+        <time>2010-01-01T00:34:25Z</time>
+        <extensions>
+          <gpsies:course>61.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62937040" lon="12.30267550">
+        <ele>438.00000</ele>
+        <time>2010-01-01T00:34:40Z</time>
+        <extensions>
+          <gpsies:course>56.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62958940" lon="12.30298970">
+        <ele>443.00000</ele>
+        <time>2010-01-01T00:34:53Z</time>
+        <extensions>
+          <gpsies:course>46.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63006400" lon="12.30345270">
+        <ele>451.00000</ele>
+        <time>2010-01-01T00:35:17Z</time>
+        <extensions>
+          <gpsies:course>35.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63040470" lon="12.30394880">
+        <ele>457.00000</ele>
+        <time>2010-01-01T00:35:37Z</time>
+        <extensions>
+          <gpsies:course>47.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63076970" lon="12.30424650">
+        <ele>463.00000</ele>
+        <time>2010-01-01T00:35:54Z</time>
+        <extensions>
+          <gpsies:course>31.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63100090" lon="12.30446140">
+        <ele>469.00000</ele>
+        <time>2010-01-01T00:36:05Z</time>
+        <extensions>
+          <gpsies:course>34.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63135590" lon="12.30467400">
+        <ele>481.00000</ele>
+        <time>2010-01-01T00:36:20Z</time>
+        <extensions>
+          <gpsies:course>23.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63149940" lon="12.30559000">
+        <ele>484.00000</ele>
+        <time>2010-01-01T00:36:48Z</time>
+        <extensions>
+          <gpsies:course>78.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63161410" lon="12.30687620">
+        <ele>469.00000</ele>
+        <time>2010-01-01T00:37:26Z</time>
+        <extensions>
+          <gpsies:course>83.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63157110" lon="12.30812350">
+        <ele>455.00000</ele>
+        <time>2010-01-01T00:38:03Z</time>
+        <extensions>
+          <gpsies:course>92.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63152810" lon="12.30948780">
+        <ele>437.00000</ele>
+        <time>2010-01-01T00:38:43Z</time>
+        <extensions>
+          <gpsies:course>92.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63171450" lon="12.30989710">
+        <ele>431.00000</ele>
+        <time>2010-01-01T00:38:57Z</time>
+        <extensions>
+          <gpsies:course>58.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63171450" lon="12.31020890">
+        <ele>429.00000</ele>
+        <time>2010-01-01T00:39:06Z</time>
+        <extensions>
+          <gpsies:course>90.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63162850" lon="12.31044280">
+        <ele>427.00000</ele>
+        <time>2010-01-01T00:39:14Z</time>
+        <extensions>
+          <gpsies:course>116.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63174320" lon="12.31091050">
+        <ele>424.00000</ele>
+        <time>2010-01-01T00:39:29Z</time>
+        <extensions>
+          <gpsies:course>71.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63154240" lon="12.31167070">
+        <ele>419.00000</ele>
+        <time>2010-01-01T00:39:52Z</time>
+        <extensions>
+          <gpsies:course>109.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63137710" lon="12.31197280">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:40:04Z</time>
+        <extensions>
+          <gpsies:course>126.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63133400" lon="12.31240150">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:40:16Z</time>
+        <extensions>
+          <gpsies:course>97.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63114760" lon="12.31290820">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:40:33Z</time>
+        <extensions>
+          <gpsies:course>116.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63081780" lon="12.31374620">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:41:01Z</time>
+        <extensions>
+          <gpsies:course>118.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63068880" lon="12.31403850">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:41:11Z</time>
+        <extensions>
+          <gpsies:course>121.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.63044500" lon="12.31452570">
+        <ele>418.00000</ele>
+        <time>2010-01-01T00:41:28Z</time>
+        <extensions>
+          <gpsies:course>124.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62977100" lon="12.31571450">
+        <ele>420.00000</ele>
+        <time>2010-01-01T00:42:13Z</time>
+        <extensions>
+          <gpsies:course>127.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62968500" lon="12.31633810">
+        <ele>421.00000</ele>
+        <time>2010-01-01T00:42:31Z</time>
+        <extensions>
+          <gpsies:course>100.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62967060" lon="12.31657190">
+        <ele>421.00000</ele>
+        <time>2010-01-01T00:42:38Z</time>
+        <extensions>
+          <gpsies:course>94.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62951290" lon="12.31705910">
+        <ele>422.00000</ele>
+        <time>2010-01-01T00:42:54Z</time>
+        <extensions>
+          <gpsies:course>113.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62962760" lon="12.31733200">
+        <ele>424.00000</ele>
+        <time>2010-01-01T00:43:03Z</time>
+        <extensions>
+          <gpsies:course>60.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62919740" lon="12.31799450">
+        <ele>423.00000</ele>
+        <time>2010-01-01T00:43:29Z</time>
+        <extensions>
+          <gpsies:course>131.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62888190" lon="12.31852070">
+        <ele>427.00000</ele>
+        <time>2010-01-01T00:43:49Z</time>
+        <extensions>
+          <gpsies:course>129.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62793550" lon="12.31951450">
+        <ele>439.00000</ele>
+        <time>2010-01-01T00:44:37Z</time>
+        <extensions>
+          <gpsies:course>142.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62767740" lon="12.31970930">
+        <ele>439.00000</ele>
+        <time>2010-01-01T00:44:49Z</time>
+        <extensions>
+          <gpsies:course>151.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62718990" lon="12.31990410">
+        <ele>440.00000</ele>
+        <time>2010-01-01T00:45:09Z</time>
+        <extensions>
+          <gpsies:course>163.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62640120" lon="12.32072250">
+        <ele>438.00000</ele>
+        <time>2010-01-01T00:45:49Z</time>
+        <extensions>
+          <gpsies:course>142.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62624340" lon="12.32117070">
+        <ele>440.00000</ele>
+        <time>2010-01-01T00:46:03Z</time>
+        <extensions>
+          <gpsies:course>115.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62581310" lon="12.32195020">
+        <ele>443.00000</ele>
+        <time>2010-01-01T00:46:32Z</time>
+        <extensions>
+          <gpsies:course>126.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62551200" lon="12.32214500">
+        <ele>443.00000</ele>
+        <time>2010-01-01T00:46:46Z</time>
+        <extensions>
+          <gpsies:course>154.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62522520" lon="12.32224240">
+        <ele>442.00000</ele>
+        <time>2010-01-01T00:46:57Z</time>
+        <extensions>
+          <gpsies:course>166.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62515350" lon="12.32235930">
+        <ele>443.00000</ele>
+        <time>2010-01-01T00:47:02Z</time>
+        <extensions>
+          <gpsies:course>129.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62482360" lon="12.32300240">
+        <ele>447.00000</ele>
+        <time>2010-01-01T00:47:25Z</time>
+        <extensions>
+          <gpsies:course>124.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62438330" lon="12.32345040">
+        <ele>451.00000</ele>
+        <time>2010-01-01T00:47:47Z</time>
+        <extensions>
+          <gpsies:course>143.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62423990" lon="12.32370370">
+        <ele>455.00000</ele>
+        <time>2010-01-01T00:47:56Z</time>
+        <extensions>
+          <gpsies:course>127.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62393880" lon="12.32397640">
+        <ele>458.00000</ele>
+        <time>2010-01-01T00:48:11Z</time>
+        <extensions>
+          <gpsies:course>146.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62362330" lon="12.32430760">
+        <ele>460.00000</ele>
+        <time>2010-01-01T00:48:27Z</time>
+        <extensions>
+          <gpsies:course>142.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62335080" lon="12.32471680">
+        <ele>463.00000</ele>
+        <time>2010-01-01T00:48:43Z</time>
+        <extensions>
+          <gpsies:course>132.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62313570" lon="12.32502850">
+        <ele>467.00000</ele>
+        <time>2010-01-01T00:48:56Z</time>
+        <extensions>
+          <gpsies:course>133.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62284880" lon="12.32565200">
+        <ele>476.00000</ele>
+        <time>2010-01-01T00:49:17Z</time>
+        <extensions>
+          <gpsies:course>122.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62256200" lon="12.32600270">
+        <ele>476.00000</ele>
+        <time>2010-01-01T00:49:33Z</time>
+        <extensions>
+          <gpsies:course>138.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62230380" lon="12.32684060">
+        <ele>479.00000</ele>
+        <time>2010-01-01T00:50:00Z</time>
+        <extensions>
+          <gpsies:course>112.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62216020" lon="12.32781490">
+        <ele>484.00000</ele>
+        <time>2010-01-01T00:50:29Z</time>
+        <extensions>
+          <gpsies:course>101.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62240390" lon="12.32865290">
+        <ele>491.00000</ele>
+        <time>2010-01-01T00:50:55Z</time>
+        <extensions>
+          <gpsies:course>68.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62256150" lon="12.32908170">
+        <ele>496.00000</ele>
+        <time>2010-01-01T00:51:09Z</time>
+        <extensions>
+          <gpsies:course>63.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62269050" lon="12.32962740">
+        <ele>499.00000</ele>
+        <time>2010-01-01T00:51:26Z</time>
+        <extensions>
+          <gpsies:course>72.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62283380" lon="12.32993920">
+        <ele>501.00000</ele>
+        <time>2010-01-01T00:51:37Z</time>
+        <extensions>
+          <gpsies:course>58.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62303450" lon="12.33038750">
+        <ele>502.00000</ele>
+        <time>2010-01-01T00:51:53Z</time>
+        <extensions>
+          <gpsies:course>58.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62303440" lon="12.33098490">
+        <ele>506.00000</ele>
+        <time>2010-01-01T00:52:10Z</time>
+        <extensions>
+          <gpsies:course>90.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62294830" lon="12.33147210">
+        <ele>507.00000</ele>
+        <time>2010-01-01T00:52:25Z</time>
+        <extensions>
+          <gpsies:course>103.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62280490" lon="12.33166690">
+        <ele>505.00000</ele>
+        <time>2010-01-01T00:52:33Z</time>
+        <extensions>
+          <gpsies:course>135.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62256110" lon="12.33201750">
+        <ele>505.00000</ele>
+        <time>2010-01-01T00:52:47Z</time>
+        <extensions>
+          <gpsies:course>133.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62228850" lon="12.33266050">
+        <ele>508.00000</ele>
+        <time>2010-01-01T00:53:09Z</time>
+        <extensions>
+          <gpsies:course>119.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62200160" lon="12.33322550">
+        <ele>510.00000</ele>
+        <time>2010-01-01T00:53:29Z</time>
+        <extensions>
+          <gpsies:course>124.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62177210" lon="12.33347870">
+        <ele>512.00000</ele>
+        <time>2010-01-01T00:53:41Z</time>
+        <extensions>
+          <gpsies:course>140.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62151400" lon="12.33351760">
+        <ele>514.00000</ele>
+        <time>2010-01-01T00:53:52Z</time>
+        <extensions>
+          <gpsies:course>173.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62118430" lon="12.33351750">
+        <ele>522.00000</ele>
+        <time>2010-01-01T00:54:05Z</time>
+        <extensions>
+          <gpsies:course>180.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62075720" lon="12.33397370">
+        <ele>533.00000</ele>
+        <time>2010-01-01T00:54:27Z</time>
+        <extensions>
+          <gpsies:course>141.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.62030220" lon="12.33447210">
+        <ele>543.00000</ele>
+        <time>2010-01-01T00:54:50Z</time>
+        <extensions>
+          <gpsies:course>141.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61994990" lon="12.33485090">
+        <ele>549.00000</ele>
+        <time>2010-01-01T00:55:08Z</time>
+        <extensions>
+          <gpsies:course>141.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61994990" lon="12.33501050">
+        <ele>548.00000</ele>
+        <time>2010-01-01T00:55:13Z</time>
+        <extensions>
+          <gpsies:course>90.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61972970" lon="12.33516990">
+        <ele>551.00000</ele>
+        <time>2010-01-01T00:55:23Z</time>
+        <extensions>
+          <gpsies:course>151.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61948020" lon="12.33540910">
+        <ele>554.00000</ele>
+        <time>2010-01-01T00:55:35Z</time>
+        <extensions>
+          <gpsies:course>144.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61943610" lon="12.33560860">
+        <ele>554.00000</ele>
+        <time>2010-01-01T00:55:41Z</time>
+        <extensions>
+          <gpsies:course>106.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61945070" lon="12.33574820">
+        <ele>553.00000</ele>
+        <time>2010-01-01T00:55:45Z</time>
+        <extensions>
+          <gpsies:course>81.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61936260" lon="12.33598740">
+        <ele>556.00000</ele>
+        <time>2010-01-01T00:55:53Z</time>
+        <extensions>
+          <gpsies:course>116.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61906910" lon="12.33630640">
+        <ele>561.00000</ele>
+        <time>2010-01-01T00:56:08Z</time>
+        <extensions>
+          <gpsies:course>141.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61876080" lon="12.33652570">
+        <ele>566.00000</ele>
+        <time>2010-01-01T00:56:22Z</time>
+        <extensions>
+          <gpsies:course>152.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61855530" lon="12.33668510">
+        <ele>568.00000</ele>
+        <time>2010-01-01T00:56:31Z</time>
+        <extensions>
+          <gpsies:course>150.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61839380" lon="12.33702410">
+        <ele>570.00000</ele>
+        <time>2010-01-01T00:56:43Z</time>
+        <extensions>
+          <gpsies:course>122.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61814420" lon="12.33746270">
+        <ele>577.00000</ele>
+        <time>2010-01-01T00:57:00Z</time>
+        <extensions>
+          <gpsies:course>127.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61795340" lon="12.33778170">
+        <ele>582.00000</ele>
+        <time>2010-01-01T00:57:12Z</time>
+        <extensions>
+          <gpsies:course>129.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61779190" lon="12.33804090">
+        <ele>586.00000</ele>
+        <time>2010-01-01T00:57:22Z</time>
+        <extensions>
+          <gpsies:course>130.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61757170" lon="12.33830000">
+        <ele>594.00000</ele>
+        <time>2010-01-01T00:57:33Z</time>
+        <extensions>
+          <gpsies:course>139.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61763030" lon="12.33855930">
+        <ele>598.00000</ele>
+        <time>2010-01-01T00:57:41Z</time>
+        <extensions>
+          <gpsies:course>72.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61761560" lon="12.33895810">
+        <ele>606.00000</ele>
+        <time>2010-01-01T00:57:53Z</time>
+        <extensions>
+          <gpsies:course>92.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61761550" lon="12.33915760">
+        <ele>609.00000</ele>
+        <time>2010-01-01T00:57:59Z</time>
+        <extensions>
+          <gpsies:course>90.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61760080" lon="12.33927720">
+        <ele>611.00000</ele>
+        <time>2010-01-01T00:58:03Z</time>
+        <extensions>
+          <gpsies:course>99.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61755670" lon="12.33961620">
+        <ele>617.00000</ele>
+        <time>2010-01-01T00:58:13Z</time>
+        <extensions>
+          <gpsies:course>100.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61710170" lon="12.33983530">
+        <ele>620.00000</ele>
+        <time>2010-01-01T00:58:32Z</time>
+        <extensions>
+          <gpsies:course>160.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61698430" lon="12.33973560">
+        <ele>621.00000</ele>
+        <time>2010-01-01T00:58:38Z</time>
+        <extensions>
+          <gpsies:course>212.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61695510" lon="12.33915720">
+        <ele>612.00000</ele>
+        <time>2010-01-01T00:58:55Z</time>
+        <extensions>
+          <gpsies:course>266.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61686720" lon="12.33887800">
+        <ele>612.00000</ele>
+        <time>2010-01-01T00:59:04Z</time>
+        <extensions>
+          <gpsies:course>246.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61673520" lon="12.33843920">
+        <ele>615.00000</ele>
+        <time>2010-01-01T00:59:18Z</time>
+        <extensions>
+          <gpsies:course>247.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61670600" lon="12.33778110">
+        <ele>614.00000</ele>
+        <time>2010-01-01T00:59:37Z</time>
+        <extensions>
+          <gpsies:course>266.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61664740" lon="12.33730250">
+        <ele>613.00000</ele>
+        <time>2010-01-01T00:59:51Z</time>
+        <extensions>
+          <gpsies:course>260.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61664750" lon="12.33702330">
+        <ele>613.00000</ele>
+        <time>2010-01-01T01:00:00Z</time>
+        <extensions>
+          <gpsies:course>270.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61660350" lon="12.33680390">
+        <ele>615.00000</ele>
+        <time>2010-01-01T01:00:06Z</time>
+        <extensions>
+          <gpsies:course>254.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61644210" lon="12.33680390">
+        <ele>620.00000</ele>
+        <time>2010-01-01T01:00:13Z</time>
+        <extensions>
+          <gpsies:course>180.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61622200" lon="12.33662430">
+        <ele>625.00000</ele>
+        <time>2010-01-01T01:00:23Z</time>
+        <extensions>
+          <gpsies:course>211.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61609000" lon="12.33638490">
+        <ele>626.00000</ele>
+        <time>2010-01-01T01:00:32Z</time>
+        <extensions>
+          <gpsies:course>233.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61591390" lon="12.33626520">
+        <ele>627.00000</ele>
+        <time>2010-01-01T01:00:40Z</time>
+        <extensions>
+          <gpsies:course>206.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61573780" lon="12.33624520">
+        <ele>629.00000</ele>
+        <time>2010-01-01T01:00:47Z</time>
+        <extensions>
+          <gpsies:course>184.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61556160" lon="12.33644460">
+        <ele>633.00000</ele>
+        <time>2010-01-01T01:00:56Z</time>
+        <extensions>
+          <gpsies:course>140.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61537080" lon="12.33664390">
+        <ele>633.00000</ele>
+        <time>2010-01-01T01:01:06Z</time>
+        <extensions>
+          <gpsies:course>142.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61523880" lon="12.33652420">
+        <ele>632.00000</ele>
+        <time>2010-01-01T01:01:12Z</time>
+        <extensions>
+          <gpsies:course>213.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61519480" lon="12.33630480">
+        <ele>630.00000</ele>
+        <time>2010-01-01T01:01:19Z</time>
+        <extensions>
+          <gpsies:course>254.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61518020" lon="12.33604560">
+        <ele>627.00000</ele>
+        <time>2010-01-01T01:01:26Z</time>
+        <extensions>
+          <gpsies:course>265.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61520960" lon="12.33580630">
+        <ele>623.00000</ele>
+        <time>2010-01-01T01:01:33Z</time>
+        <extensions>
+          <gpsies:course>279.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61519490" lon="12.33562680">
+        <ele>620.00000</ele>
+        <time>2010-01-01T01:01:39Z</time>
+        <extensions>
+          <gpsies:course>263.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61501890" lon="12.33546720">
+        <ele>615.00000</ele>
+        <time>2010-01-01T01:01:47Z</time>
+        <extensions>
+          <gpsies:course>213.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61469610" lon="12.33516790">
+        <ele>606.00000</ele>
+        <time>2010-01-01T01:02:03Z</time>
+        <extensions>
+          <gpsies:course>214.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61428520" lon="12.33474900">
+        <ele>594.00000</ele>
+        <time>2010-01-01T01:02:23Z</time>
+        <extensions>
+          <gpsies:course>216.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61394780" lon="12.33442980">
+        <ele>586.00000</ele>
+        <time>2010-01-01T01:02:40Z</time>
+        <extensions>
+          <gpsies:course>214.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61374240" lon="12.33417050">
+        <ele>580.00000</ele>
+        <time>2010-01-01T01:02:51Z</time>
+        <extensions>
+          <gpsies:course>222.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61356630" lon="12.33383140">
+        <ele>575.00000</ele>
+        <time>2010-01-01T01:03:03Z</time>
+        <extensions>
+          <gpsies:course>234.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61331690" lon="12.33323310">
+        <ele>569.00000</ele>
+        <time>2010-01-01T01:03:24Z</time>
+        <extensions>
+          <gpsies:course>240.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61310880" lon="12.33293390">
+        <ele>565.00000</ele>
+        <time>2010-01-01T01:03:36Z</time>
+        <extensions>
+          <gpsies:course>226.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61290340" lon="12.33257480">
+        <ele>566.00000</ele>
+        <time>2010-01-01T01:03:49Z</time>
+        <extensions>
+          <gpsies:course>232.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61268330" lon="12.33229560">
+        <ele>565.00000</ele>
+        <time>2010-01-01T01:04:01Z</time>
+        <extensions>
+          <gpsies:course>223.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61231650" lon="12.33189660">
+        <ele>564.00000</ele>
+        <time>2010-01-01T01:04:20Z</time>
+        <extensions>
+          <gpsies:course>218.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61208170" lon="12.33171710">
+        <ele>561.00000</ele>
+        <time>2010-01-01T01:04:31Z</time>
+        <extensions>
+          <gpsies:course>209.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61184700" lon="12.33161730">
+        <ele>557.00000</ele>
+        <time>2010-01-01T01:04:41Z</time>
+        <extensions>
+          <gpsies:course>197.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61158280" lon="12.33139790">
+        <ele>555.00000</ele>
+        <time>2010-01-01T01:04:53Z</time>
+        <extensions>
+          <gpsies:course>211.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61123070" lon="12.33119840">
+        <ele>553.00000</ele>
+        <time>2010-01-01T01:05:08Z</time>
+        <extensions>
+          <gpsies:course>202.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61096650" lon="12.33113850">
+        <ele>550.00000</ele>
+        <time>2010-01-01T01:05:19Z</time>
+        <extensions>
+          <gpsies:course>189.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61052620" lon="12.33111840">
+        <ele>548.00000</ele>
+        <time>2010-01-01T01:05:37Z</time>
+        <extensions>
+          <gpsies:course>181.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.61015940" lon="12.33109830">
+        <ele>546.00000</ele>
+        <time>2010-01-01T01:05:51Z</time>
+        <extensions>
+          <gpsies:course>182.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60979250" lon="12.33101840">
+        <ele>541.00000</ele>
+        <time>2010-01-01T01:06:06Z</time>
+        <extensions>
+          <gpsies:course>189.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60949900" lon="12.33115790">
+        <ele>538.00000</ele>
+        <time>2010-01-01T01:06:19Z</time>
+        <extensions>
+          <gpsies:course>160.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60929350" lon="12.33101830">
+        <ele>536.00000</ele>
+        <time>2010-01-01T01:06:28Z</time>
+        <extensions>
+          <gpsies:course>206.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60908810" lon="12.33093840">
+        <ele>534.00000</ele>
+        <time>2010-01-01T01:06:36Z</time>
+        <extensions>
+          <gpsies:course>196.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60872120" lon="12.33085860">
+        <ele>531.00000</ele>
+        <time>2010-01-01T01:06:51Z</time>
+        <extensions>
+          <gpsies:course>189.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60839830" lon="12.33119740">
+        <ele>534.00000</ele>
+        <time>2010-01-01T01:07:08Z</time>
+        <extensions>
+          <gpsies:course>142.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60811940" lon="12.33135690">
+        <ele>537.00000</ele>
+        <time>2010-01-01T01:07:20Z</time>
+        <extensions>
+          <gpsies:course>157.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60819290" lon="12.33107770">
+        <ele>534.00000</ele>
+        <time>2010-01-01T01:07:28Z</time>
+        <extensions>
+          <gpsies:course>289.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60809020" lon="12.33089820">
+        <ele>533.00000</ele>
+        <time>2010-01-01T01:07:35Z</time>
+        <extensions>
+          <gpsies:course>232.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60797280" lon="12.33067890">
+        <ele>532.00000</ele>
+        <time>2010-01-01T01:07:43Z</time>
+        <extensions>
+          <gpsies:course>234.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60789950" lon="12.33042360">
+        <ele>529.00000</ele>
+        <time>2010-01-01T01:07:51Z</time>
+        <extensions>
+          <gpsies:course>248.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60748870" lon="12.32984530">
+        <ele>524.00000</ele>
+        <time>2010-01-01T01:08:15Z</time>
+        <extensions>
+          <gpsies:course>226.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60735660" lon="12.32954610">
+        <ele>520.00000</ele>
+        <time>2010-01-01T01:08:25Z</time>
+        <extensions>
+          <gpsies:course>239.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60741540" lon="12.32902770">
+        <ele>512.00000</ele>
+        <time>2010-01-01T01:08:41Z</time>
+        <extensions>
+          <gpsies:course>278.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60734210" lon="12.32864890">
+        <ele>511.00000</ele>
+        <time>2010-01-01T01:08:52Z</time>
+        <extensions>
+          <gpsies:course>255.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60726880" lon="12.32836970">
+        <ele>511.00000</ele>
+        <time>2010-01-01T01:09:01Z</time>
+        <extensions>
+          <gpsies:course>250.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60721010" lon="12.32817030">
+        <ele>511.00000</ele>
+        <time>2010-01-01T01:09:07Z</time>
+        <extensions>
+          <gpsies:course>248.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60712210" lon="12.32793100">
+        <ele>512.00000</ele>
+        <time>2010-01-01T01:09:15Z</time>
+        <extensions>
+          <gpsies:course>243.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60716620" lon="12.32749240">
+        <ele>506.00000</ele>
+        <time>2010-01-01T01:09:28Z</time>
+        <extensions>
+          <gpsies:course>277.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60716630" lon="12.32697400">
+        <ele>497.00000</ele>
+        <time>2010-01-01T01:09:43Z</time>
+        <extensions>
+          <gpsies:course>270.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60713690" lon="12.32677460">
+        <ele>495.00000</ele>
+        <time>2010-01-01T01:09:49Z</time>
+        <extensions>
+          <gpsies:course>258.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60709290" lon="12.32643560">
+        <ele>493.00000</ele>
+        <time>2010-01-01T01:10:00Z</time>
+        <extensions>
+          <gpsies:course>260.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60694620" lon="12.32609660">
+        <ele>492.00000</ele>
+        <time>2010-01-01T01:10:11Z</time>
+        <extensions>
+          <gpsies:course>239.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60672620" lon="12.32569780">
+        <ele>486.00000</ele>
+        <time>2010-01-01T01:10:26Z</time>
+        <extensions>
+          <gpsies:course>233.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60637400" lon="12.32494000">
+        <ele>476.00000</ele>
+        <time>2010-01-01T01:10:52Z</time>
+        <extensions>
+          <gpsies:course>237.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60634470" lon="12.32482040">
+        <ele>474.00000</ele>
+        <time>2010-01-01T01:10:56Z</time>
+        <extensions>
+          <gpsies:course>251.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60656480" lon="12.32484030">
+        <ele>469.00000</ele>
+        <time>2010-01-01T01:11:05Z</time>
+        <extensions>
+          <gpsies:course>3.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60684370" lon="12.32484040">
+        <ele>463.00000</ele>
+        <time>2010-01-01T01:11:16Z</time>
+        <extensions>
+          <gpsies:course>0.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60709320" lon="12.32484050">
+        <ele>461.00000</ele>
+        <time>2010-01-01T01:11:26Z</time>
+        <extensions>
+          <gpsies:course>0.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60700510" lon="12.32468090">
+        <ele>460.00000</ele>
+        <time>2010-01-01T01:11:32Z</time>
+        <extensions>
+          <gpsies:course>233.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60693180" lon="12.32446160">
+        <ele>458.00000</ele>
+        <time>2010-01-01T01:11:39Z</time>
+        <extensions>
+          <gpsies:course>245.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60677040" lon="12.32422230">
+        <ele>455.00000</ele>
+        <time>2010-01-01T01:11:48Z</time>
+        <extensions>
+          <gpsies:course>227.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60663830" lon="12.32410260">
+        <ele>454.00000</ele>
+        <time>2010-01-01T01:11:55Z</time>
+        <extensions>
+          <gpsies:course>213.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60668230" lon="12.32398300">
+        <ele>452.00000</ele>
+        <time>2010-01-01T01:11:59Z</time>
+        <extensions>
+          <gpsies:course>296.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60640350" lon="12.32388320">
+        <ele>450.00000</ele>
+        <time>2010-01-01T01:12:10Z</time>
+        <extensions>
+          <gpsies:course>194.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60621280" lon="12.32368380">
+        <ele>448.00000</ele>
+        <time>2010-01-01T01:12:20Z</time>
+        <extensions>
+          <gpsies:course>217.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60596330" lon="12.32350430">
+        <ele>448.00000</ele>
+        <time>2010-01-01T01:12:31Z</time>
+        <extensions>
+          <gpsies:course>207.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60564050" lon="12.32326500">
+        <ele>448.00000</ele>
+        <time>2010-01-01T01:12:46Z</time>
+        <extensions>
+          <gpsies:course>208.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60546440" lon="12.32314530">
+        <ele>448.00000</ele>
+        <time>2010-01-01T01:12:54Z</time>
+        <extensions>
+          <gpsies:course>206.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60533230" lon="12.32302560">
+        <ele>446.00000</ele>
+        <time>2010-01-01T01:13:00Z</time>
+        <extensions>
+          <gpsies:course>213.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60498010" lon="12.32276630">
+        <ele>445.00000</ele>
+        <time>2010-01-01T01:13:16Z</time>
+        <extensions>
+          <gpsies:course>208.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60464260" lon="12.32234760">
+        <ele>445.00000</ele>
+        <time>2010-01-01T01:13:35Z</time>
+        <extensions>
+          <gpsies:course>222.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60443720" lon="12.32202850">
+        <ele>443.00000</ele>
+        <time>2010-01-01T01:13:47Z</time>
+        <extensions>
+          <gpsies:course>228.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60426110" lon="12.32176920">
+        <ele>441.00000</ele>
+        <time>2010-01-01T01:13:57Z</time>
+        <extensions>
+          <gpsies:course>227.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60411430" lon="12.32151000">
+        <ele>437.00000</ele>
+        <time>2010-01-01T01:14:07Z</time>
+        <extensions>
+          <gpsies:course>232.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60403600" lon="12.32140630">
+        <ele>435.00000</ele>
+        <time>2010-01-01T01:14:11Z</time>
+        <extensions>
+          <gpsies:course>224.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60380810" lon="12.32129710">
+        <ele>433.00000</ele>
+        <time>2010-01-01T01:14:21Z</time>
+        <extensions>
+          <gpsies:course>199.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60338150" lon="12.32126770">
+        <ele>429.00000</ele>
+        <time>2010-01-01T01:14:38Z</time>
+        <extensions>
+          <gpsies:course>182.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60308390" lon="12.32123900">
+        <ele>428.00000</ele>
+        <time>2010-01-01T01:14:50Z</time>
+        <extensions>
+          <gpsies:course>184.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60282610" lon="12.32115660">
+        <ele>428.00000</ele>
+        <time>2010-01-01T01:15:01Z</time>
+        <extensions>
+          <gpsies:course>193.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60241960" lon="12.32104640">
+        <ele>425.00000</ele>
+        <time>2010-01-01T01:15:17Z</time>
+        <extensions>
+          <gpsies:course>191.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60214490" lon="12.32095370">
+        <ele>422.00000</ele>
+        <time>2010-01-01T01:15:29Z</time>
+        <extensions>
+          <gpsies:course>193.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60187750" lon="12.32080380">
+        <ele>420.00000</ele>
+        <time>2010-01-01T01:15:40Z</time>
+        <extensions>
+          <gpsies:course>202.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60166960" lon="12.32064080">
+        <ele>419.00000</ele>
+        <time>2010-01-01T01:15:50Z</time>
+        <extensions>
+          <gpsies:course>210.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60142240" lon="12.32035630">
+        <ele>416.00000</ele>
+        <time>2010-01-01T01:16:03Z</time>
+        <extensions>
+          <gpsies:course>220.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60125470" lon="12.32001830">
+        <ele>415.00000</ele>
+        <time>2010-01-01T01:16:15Z</time>
+        <extensions>
+          <gpsies:course>236.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60114660" lon="12.31968060">
+        <ele>417.00000</ele>
+        <time>2010-01-01T01:16:26Z</time>
+        <extensions>
+          <gpsies:course>246.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60107830" lon="12.31930270">
+        <ele>419.00000</ele>
+        <time>2010-01-01T01:16:37Z</time>
+        <extensions>
+          <gpsies:course>256.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60098000" lon="12.31901900">
+        <ele>419.00000</ele>
+        <time>2010-01-01T01:16:46Z</time>
+        <extensions>
+          <gpsies:course>244.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60080210" lon="12.31878880">
+        <ele>419.00000</ele>
+        <time>2010-01-01T01:16:56Z</time>
+        <extensions>
+          <gpsies:course>223.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60067330" lon="12.31872070">
+        <ele>419.00000</ele>
+        <time>2010-01-01T01:17:02Z</time>
+        <extensions>
+          <gpsies:course>201.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60051460" lon="12.31869280">
+        <ele>418.00000</ele>
+        <time>2010-01-01T01:17:08Z</time>
+        <extensions>
+          <gpsies:course>187.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.60031600" lon="12.31874560">
+        <ele>415.00000</ele>
+        <time>2010-01-01T01:17:16Z</time>
+        <extensions>
+          <gpsies:course>168.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59994840" lon="12.31887830">
+        <ele>410.00000</ele>
+        <time>2010-01-01T01:17:32Z</time>
+        <extensions>
+          <gpsies:course>165.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59965050" lon="12.31894390">
+        <ele>409.00000</ele>
+        <time>2010-01-01T01:17:44Z</time>
+        <extensions>
+          <gpsies:course>170.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59945200" lon="12.31895630">
+        <ele>407.00000</ele>
+        <time>2010-01-01T01:17:52Z</time>
+        <extensions>
+          <gpsies:course>177.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59923380" lon="12.31890110">
+        <ele>407.00000</ele>
+        <time>2010-01-01T01:18:00Z</time>
+        <extensions>
+          <gpsies:course>190.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59891650" lon="12.31881840">
+        <ele>406.00000</ele>
+        <time>2010-01-01T01:18:13Z</time>
+        <extensions>
+          <gpsies:course>190.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59863910" lon="12.31865500">
+        <ele>406.00000</ele>
+        <time>2010-01-01T01:18:25Z</time>
+        <extensions>
+          <gpsies:course>203.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59839180" lon="12.31842440">
+        <ele>405.00000</ele>
+        <time>2010-01-01T01:18:37Z</time>
+        <extensions>
+          <gpsies:course>214.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59826340" lon="12.31820800">
+        <ele>406.00000</ele>
+        <time>2010-01-01T01:18:46Z</time>
+        <extensions>
+          <gpsies:course>231.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59802700" lon="12.31766730">
+        <ele>408.00000</ele>
+        <time>2010-01-01T01:19:04Z</time>
+        <extensions>
+          <gpsies:course>239.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59799830" lon="12.31730320">
+        <ele>411.00000</ele>
+        <time>2010-01-01T01:19:15Z</time>
+        <extensions>
+          <gpsies:course>263.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59797030" lon="12.31675030">
+        <ele>416.00000</ele>
+        <time>2010-01-01T01:19:31Z</time>
+        <extensions>
+          <gpsies:course>266.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59797100" lon="12.31652110">
+        <ele>417.00000</ele>
+        <time>2010-01-01T01:19:38Z</time>
+        <extensions>
+          <gpsies:course>270.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59799190" lon="12.31618420">
+        <ele>420.00000</ele>
+        <time>2010-01-01T01:19:48Z</time>
+        <extensions>
+          <gpsies:course>274.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59807230" lon="12.31584760">
+        <ele>424.00000</ele>
+        <time>2010-01-01T01:19:58Z</time>
+        <extensions>
+          <gpsies:course>288.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59821220" lon="12.31552490">
+        <ele>428.00000</ele>
+        <time>2010-01-01T01:20:09Z</time>
+        <extensions>
+          <gpsies:course>300.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59828200" lon="12.31541740">
+        <ele>430.00000</ele>
+        <time>2010-01-01T01:20:14Z</time>
+        <extensions>
+          <gpsies:course>311.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59828240" lon="12.31529610">
+        <ele>432.00000</ele>
+        <time>2010-01-01T01:20:17Z</time>
+        <extensions>
+          <gpsies:course>270.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59823320" lon="12.31514750">
+        <ele>433.00000</ele>
+        <time>2010-01-01T01:20:22Z</time>
+        <extensions>
+          <gpsies:course>245.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59817410" lon="12.31502590">
+        <ele>433.00000</ele>
+        <time>2010-01-01T01:20:26Z</time>
+        <extensions>
+          <gpsies:course>236.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59803540" lon="12.31494420">
+        <ele>434.00000</ele>
+        <time>2010-01-01T01:20:32Z</time>
+        <extensions>
+          <gpsies:course>203.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59788670" lon="12.31490290">
+        <ele>435.00000</ele>
+        <time>2010-01-01T01:20:39Z</time>
+        <extensions>
+          <gpsies:course>191.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59764520" lon="12.31488810">
+        <ele>436.00000</ele>
+        <time>2010-01-01T01:20:48Z</time>
+        <extensions>
+          <gpsies:course>182.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59719850" lon="12.31492600">
+        <ele>438.00000</ele>
+        <time>2010-01-01T01:21:06Z</time>
+        <extensions>
+          <gpsies:course>176.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59639430" lon="12.31504270">
+        <ele>444.00000</ele>
+        <time>2010-01-01T01:21:38Z</time>
+        <extensions>
+          <gpsies:course>173.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59623580" lon="12.31494740">
+        <ele>446.00000</ele>
+        <time>2010-01-01T01:21:45Z</time>
+        <extensions>
+          <gpsies:course>203.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59603840" lon="12.31459580">
+        <ele>444.00000</ele>
+        <time>2010-01-01T01:21:58Z</time>
+        <extensions>
+          <gpsies:course>232.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59578080" lon="12.31445950">
+        <ele>441.00000</ele>
+        <time>2010-01-01T01:22:10Z</time>
+        <extensions>
+          <gpsies:course>201.3</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59551390" lon="12.31412610">
+        <ele>434.00000</ele>
+        <time>2010-01-01T01:22:24Z</time>
+        <extensions>
+          <gpsies:course>222.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59543530" lon="12.31386950">
+        <ele>430.00000</ele>
+        <time>2010-01-01T01:22:32Z</time>
+        <extensions>
+          <gpsies:course>247.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59535720" lon="12.31345120">
+        <ele>425.00000</ele>
+        <time>2010-01-01T01:22:45Z</time>
+        <extensions>
+          <gpsies:course>255.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59532810" lon="12.31324880">
+        <ele>423.00000</ele>
+        <time>2010-01-01T01:22:51Z</time>
+        <extensions>
+          <gpsies:course>258.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59518040" lon="12.31287050">
+        <ele>418.00000</ele>
+        <time>2010-01-01T01:23:04Z</time>
+        <extensions>
+          <gpsies:course>242.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59513250" lon="12.31229060">
+        <ele>408.00000</ele>
+        <time>2010-01-01T01:23:21Z</time>
+        <extensions>
+          <gpsies:course>263.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59490610" lon="12.31170960">
+        <ele>401.00000</ele>
+        <time>2010-01-01T01:23:40Z</time>
+        <extensions>
+          <gpsies:course>242.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59460920" lon="12.31143830">
+        <ele>398.00000</ele>
+        <time>2010-01-01T01:23:55Z</time>
+        <extensions>
+          <gpsies:course>213.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59427180" lon="12.31143640">
+        <ele>395.00000</ele>
+        <time>2010-01-01T01:24:08Z</time>
+        <extensions>
+          <gpsies:course>180.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59384260" lon="12.31088980">
+        <ele>391.00000</ele>
+        <time>2010-01-01T01:24:32Z</time>
+        <extensions>
+          <gpsies:course>223.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59357520" lon="12.31071300">
+        <ele>389.00000</ele>
+        <time>2010-01-01T01:24:43Z</time>
+        <extensions>
+          <gpsies:course>205.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59316910" lon="12.31044110">
+        <ele>386.00000</ele>
+        <time>2010-01-01T01:25:02Z</time>
+        <extensions>
+          <gpsies:course>206.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59285200" lon="12.31031800">
+        <ele>384.00000</ele>
+        <time>2010-01-01T01:25:15Z</time>
+        <extensions>
+          <gpsies:course>195.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59282280" lon="12.31011570">
+        <ele>384.00000</ele>
+        <time>2010-01-01T01:25:21Z</time>
+        <extensions>
+          <gpsies:course>258.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59270410" lon="12.30998020">
+        <ele>385.00000</ele>
+        <time>2010-01-01T01:25:27Z</time>
+        <extensions>
+          <gpsies:course>220.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59252610" lon="12.30979050">
+        <ele>385.00000</ele>
+        <time>2010-01-01T01:25:36Z</time>
+        <extensions>
+          <gpsies:course>218.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59178480" lon="12.30554020">
+        <ele>383.00000</ele>
+        <time>2010-01-01T01:27:45Z</time>
+        <extensions>
+          <gpsies:course>256.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59172690" lon="12.30500070">
+        <ele>382.00000</ele>
+        <time>2010-01-01T01:28:01Z</time>
+        <extensions>
+          <gpsies:course>261.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59172770" lon="12.30473110">
+        <ele>382.00000</ele>
+        <time>2010-01-01T01:28:09Z</time>
+        <extensions>
+          <gpsies:course>270.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59176880" lon="12.30425950">
+        <ele>384.00000</ele>
+        <time>2010-01-01T01:28:23Z</time>
+        <extensions>
+          <gpsies:course>276.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59182910" lon="12.30399030">
+        <ele>384.00000</ele>
+        <time>2010-01-01T01:28:31Z</time>
+        <extensions>
+          <gpsies:course>286.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59195900" lon="12.30370790">
+        <ele>385.00000</ele>
+        <time>2010-01-01T01:28:41Z</time>
+        <extensions>
+          <gpsies:course>302.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59225790" lon="12.30331860">
+        <ele>384.00000</ele>
+        <time>2010-01-01T01:28:58Z</time>
+        <extensions>
+          <gpsies:course>316.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59230790" lon="12.30317060">
+        <ele>381.00000</ele>
+        <time>2010-01-01T01:29:02Z</time>
+        <extensions>
+          <gpsies:course>294.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59256710" lon="12.30278110">
+        <ele>374.00000</ele>
+        <time>2010-01-01T01:29:18Z</time>
+        <extensions>
+          <gpsies:course>312.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59267680" lon="12.30260650">
+        <ele>370.00000</ele>
+        <time>2010-01-01T01:29:25Z</time>
+        <extensions>
+          <gpsies:course>310.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59277640" lon="12.30247220">
+        <ele>369.00000</ele>
+        <time>2010-01-01T01:29:30Z</time>
+        <extensions>
+          <gpsies:course>315.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59288620" lon="12.30227060">
+        <ele>367.00000</ele>
+        <time>2010-01-01T01:29:38Z</time>
+        <extensions>
+          <gpsies:course>306.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59295630" lon="12.30206880">
+        <ele>363.00000</ele>
+        <time>2010-01-01T01:29:44Z</time>
+        <extensions>
+          <gpsies:course>295.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59307580" lon="12.30190770">
+        <ele>361.00000</ele>
+        <time>2010-01-01T01:29:51Z</time>
+        <extensions>
+          <gpsies:course>315.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59316540" lon="12.30182730">
+        <ele>360.00000</ele>
+        <time>2010-01-01T01:29:55Z</time>
+        <extensions>
+          <gpsies:course>326.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59333440" lon="12.30172040">
+        <ele>358.00000</ele>
+        <time>2010-01-01T01:30:03Z</time>
+        <extensions>
+          <gpsies:course>335.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59348370" lon="12.30157290">
+        <ele>355.00000</ele>
+        <time>2010-01-01T01:30:10Z</time>
+        <extensions>
+          <gpsies:course>324.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59356360" lon="12.30139810">
+        <ele>350.00000</ele>
+        <time>2010-01-01T01:30:16Z</time>
+        <extensions>
+          <gpsies:course>301.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59369310" lon="12.30123710">
+        <ele>346.00000</ele>
+        <time>2010-01-01T01:30:23Z</time>
+        <extensions>
+          <gpsies:course>317.5</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59378270" lon="12.30112970">
+        <ele>345.00000</ele>
+        <time>2010-01-01T01:30:28Z</time>
+        <extensions>
+          <gpsies:course>318.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59385260" lon="12.30099530">
+        <ele>343.00000</ele>
+        <time>2010-01-01T01:30:33Z</time>
+        <extensions>
+          <gpsies:course>305.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59381310" lon="12.30094120">
+        <ele>341.00000</ele>
+        <time>2010-01-01T01:30:35Z</time>
+        <extensions>
+          <gpsies:course>225.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59376360" lon="12.30087350">
+        <ele>339.00000</ele>
+        <time>2010-01-01T01:30:38Z</time>
+        <extensions>
+          <gpsies:course>225.2</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59367520" lon="12.30058990">
+        <ele>334.00000</ele>
+        <time>2010-01-01T01:30:47Z</time>
+        <extensions>
+          <gpsies:course>247.0</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59348210" lon="12.29979970">
+        <ele>321.00000</ele>
+        <time>2010-01-01T01:31:11Z</time>
+        <extensions>
+          <gpsies:course>251.6</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59315460" lon="12.29908600">
+        <ele>311.00000</ele>
+        <time>2010-01-01T01:31:36Z</time>
+        <extensions>
+          <gpsies:course>238.1</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59277650" lon="12.29830320">
+        <ele>294.00000</ele>
+        <time>2010-01-01T01:32:04Z</time>
+        <extensions>
+          <gpsies:course>236.7</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59280870" lon="12.29778670">
+        <ele>286.00000</ele>
+        <time>2010-01-01T01:32:19Z</time>
+        <extensions>
+          <gpsies:course>274.8</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59302900" lon="12.29762720">
+        <ele>287.00000</ele>
+        <time>2010-01-01T01:32:29Z</time>
+        <extensions>
+          <gpsies:course>331.9</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.59056250" lon="12.29707410">
+        <ele>268.00000</ele>
+        <time>2010-01-01T01:34:09Z</time>
+        <extensions>
+          <gpsies:course>189.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.58889770" lon="12.29693880">
+        <ele>262.00000</ele>
+        <time>2010-01-01T01:35:16Z</time>
+        <extensions>
+          <gpsies:course>183.4</gpsies:course>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.58879640" lon="12.29691530">
+        <ele>261.00000</ele>
+        <time>2010-01-01T01:35:20Z</time>
+        <extensions>
+          <gpsies:course>189.7</gpsies:course>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
